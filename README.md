@@ -1,7 +1,3 @@
-Here's a GitHub README template for your script that highlights its functionality and provides clear instructions for users concerned about deleting temporary folders from their Android projects.
-
----
-
 # Android Temp Folder Cleaner
 
 ## Overview
@@ -79,7 +75,3 @@ If you would like to contribute to this project, feel free to fork the repositor
 ## Acknowledgments
 
 - Thank you to the contributors and users for their support and feedback.
-
----
-
-Feel free to customize the sections, particularly the repository URL and any specific instructions or features that may apply to your script. This template provides a clear, user-friendly guide for potential users, helping them understand the script's purpose and functionality.
