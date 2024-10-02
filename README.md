@@ -20,8 +20,8 @@ Are you worried about accidentally deleting important files while trying to clea
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/android-temp-folder-cleaner.git
-   cd android-temp-folder-cleaner
+   git clone https://github.com/thehasnism/AndroidCleaner.git
+   cd AndroidCleaner
    ```
 
 2. Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
