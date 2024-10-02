@@ -32,7 +32,7 @@ Are you worried about accidentally deleting important files while trying to clea
 
 1. Run the script:
    ```bash
-   python cleaner.py
+   python main.py
    ```
 
 2. A dialog window will open prompting you to select the root folder containing your Android projects.
